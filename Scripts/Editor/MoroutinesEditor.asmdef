@@ -1,0 +1,18 @@
+{
+    "name": "MoroutinesEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d24e900b7f4c0f14c816d3ea94ad84ec"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
